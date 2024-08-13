@@ -1,4 +1,4 @@
-## Olá! Eu sou André Lopes... Bem vindo ao meu github 👋
+##   Olá!<img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/> Eu sou André Lopes... Bem vindo ao meu github!
 
 [![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://portfolio-andre-lopes.vercel.app/)](https://portfolio-andre-lopes.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-peixoto-lopes/)
